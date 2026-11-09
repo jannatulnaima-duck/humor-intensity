@@ -49,9 +49,9 @@ This repository contains the code and predictions for our system for SemEval-202
 
     @unpublished{naima2026gettingthejoke,
       title={Getting the Joke: Stacking Diverse Transformers for Humor Intensity Regression in Edited News Headlines},
-      author={Naima, Jannatul and Chakraborty, Trina and Chowdhury, Swapnil and Khatun, Mst Tuly and Tripura, Monalisa and Tofa, Farjana Alam},
+      author={Naima, Jannatul and Chakraborty, Trina and Chowdhury, Swapnil and Khatun, Mst Tuly and Tripura, Monalisa and       Tofa, Farjana Alam},
       note={International Conference on Machine Intelligence and
-    Emerging Technologies (MIET 2026, Bangladesh)},
+      Emerging Technologies (MIET 2026, Bangladesh)},
       year={2026}
     }
 
