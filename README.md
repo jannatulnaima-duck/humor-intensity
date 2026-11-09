@@ -40,9 +40,9 @@
 ## About The Project
 
 This repository contains the code and predictions for our system for SemEval-2020 Task 7 (Subtask 1), which predicts how funny a news headline is after a single word has been replaced, as a score from 0 to 3 on the Humicroedit dataset. We fine-tune several transformer encoders (DeBERTa-v3, RoBERTa, StructBERT, Sentence-BERT) and combine their predictions with a stacking ensemble. The final system reaches a test RMSE of 0.4858.
-
-![Framework overview](images/mietMethod.svg)
-
+<p align="center">
+  <img src="images/mietMethod.svg" alt="Framework overview" width="85%">
+</p>
 :star2: Official implementation to reproduce the main results of our paper **Getting the Joke: Stacking Diverse Transformers for Humor Intensity Regression in Edited News Headlines**.
 
 **If you use our code, please consider citing:**
