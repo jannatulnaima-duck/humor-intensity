@@ -9,7 +9,7 @@
     Joint work between the University of Chittagong, Shahjalal University of Science and Technology, and Chittagong University of Engineering and Technology
   </p>
 
-  Jannatul Naima, Trina Chakraborty, Swapnil Chowdhury, Mst Tuly Khatun, Monalisa Tripura, and Farjana Alam Tofa.
+  [Jannatul Naima](mailto:jannatulnaima.cse.cu@gmail.com), Trina Chakraborty, Swapnil Chowdhury, Mst Tuly Khatun, Monalisa Tripura, and Farjana Alam Tofa.
 </div>
 
 <!-- TABLE OF CONTENTS -->
