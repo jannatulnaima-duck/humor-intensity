@@ -43,7 +43,7 @@ This repository contains the code and predictions for our system for SemEval-202
 <p align="center">
   <img src="images/mietMethod.svg" alt="Framework overview" width="85%">
 </p>
-:star2: Official implementation to reproduce the main results of our paper **Getting the Joke: Stacking Diverse Transformers for Humor Intensity Regression in Edited News Headlines**.
+:star2: Official implementation to reproduce the main results of our paper "Getting the Joke: Stacking Diverse Transformers for Humor Intensity Regression in Edited News Headlines".
 
 **If you use our code, please consider citing:**
 
